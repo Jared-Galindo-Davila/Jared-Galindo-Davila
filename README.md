@@ -1,2 +1,2 @@
 # Programacion
-#Jared Julio Galindo Davila
+Jared Julio Galindo Davila
