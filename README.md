@@ -4,7 +4,6 @@
 
 I'm a passionate developer who loves building and creating things with code. I have experience in various technologies and enjoy working on challenging projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaredgd&style=flat-square)
 
 ## 🚀 Skills
 
@@ -36,3 +35,4 @@ I'm a passionate developer who loves building and creating things with code. I h
 ![Coding](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 I code with coffee, music, and a bit of magic. ✨
 
+![Profile Views](https://komarev.com/ghpvc/?username=jaredgd&style=flat-square)
