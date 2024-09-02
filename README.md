@@ -4,6 +4,8 @@
 
 I'm a passionate developer who loves building and creating things with code. I have experience in various technologies and enjoy working on challenging projects.
 
+![Profile Views](https://komarev.com/ghpvc/?username=jaredgd&style=flat-square)
+
 ## 🚀 Skills
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -11,6 +13,10 @@ I'm a passionate developer who loves building and creating things with code. I h
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
 ## 💻 Projects
