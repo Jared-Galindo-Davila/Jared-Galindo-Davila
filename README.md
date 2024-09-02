@@ -19,8 +19,6 @@ I'm a passionate developer who loves building and creating things with code. I h
 
 ## 💻 Projects
 
-![Projects](https://media.giphy.com/media/2wZr80t6F9scM/giphy.gif)
-
 - **Project Name**: A brief description of what this project does.
 - ![Demo](https://media.giphy.com/media/3ohzdUumYB2TWWFqqA/giphy.gif)
 - **Another Project**: Description of another cool project.
