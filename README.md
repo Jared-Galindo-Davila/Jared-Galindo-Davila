@@ -1,3 +1,5 @@
+![Background](https://your-gif-url.com/animated-background.gif)
+
 # 👋 Hello! I'm Jared Julio Galindo Davila
 
 ![Welcome](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
